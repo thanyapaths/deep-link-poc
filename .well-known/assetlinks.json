@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "th.co.sgcapital.lending",
+      "sha256_cert_fingerprints": [
+        "C1:D5:48:A8:1F:06:9D:A0:CA:47:94:A9:19:3C:51:58:38:82:9E:5A:03:46:59:34:5B:D5:49:8C:3D:17:AB:DA"
+      ]
+    }
+  }
+]
